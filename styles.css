@@ -46,7 +46,7 @@ form {
   padding: 10px;
   border: 1px solid #eee;
   outline: none;
-  width: 50%;
+  width: 35%;
 }
 
 .inputForm::placeholder {
@@ -125,7 +125,8 @@ form {
 .noTasks {
   font-size: 48px;
 }
-.date{
+
+.date {
   width: 100%;
   padding: 15px;
 }
